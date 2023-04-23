@@ -1,0 +1,6 @@
+En el branch se estará cargando las funciones para conexión con DogsHubs para el registro de experimentos y MLflow. 
+Para lo anterior es importante la importación de las siguientes librerías.
+  import mlflow
+  import mlflow.keras
+  import mlflow.tensorflow
+  import os
